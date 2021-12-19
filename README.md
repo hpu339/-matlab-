@@ -8,5 +8,6 @@
 #### 5.FIR_DF.m为FIR滤波器文件
 #### 6.IIR_DF.m为IIR滤波器文件
 #### 7.两个.wav文件为两个音频文件
+## GUI界面如图
 ![avatar](https://github.com/hpu339/-matlab-/raw/main/%E5%9B%BE%E7%89%871.png)
 
